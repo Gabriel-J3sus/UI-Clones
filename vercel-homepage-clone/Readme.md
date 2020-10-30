@@ -9,5 +9,4 @@ UI Clone - Vercel Homepage
 ## Techs
 
 - [x] html
-- [x] JS
 - [x] SCSS
