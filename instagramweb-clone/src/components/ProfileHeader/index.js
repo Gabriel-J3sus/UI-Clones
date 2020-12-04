@@ -1,4 +1,16 @@
-import { Container, AvatarWrapper, Avatar, UserData, ConfigContainer, Buttons, Data, Description, StoriesContainer, Stories, Circle } from './styles';
+import { 
+    Container,
+    AvatarWrapper,
+    Avatar,
+    UserData,
+    ConfigContainer,
+    Buttons,
+    Data,
+    Description,
+    StoriesContainer,
+    Stories,
+    Circle,
+} from './styles';
 
 import { RiArrowDownSFill } from 'react-icons/ri';
 

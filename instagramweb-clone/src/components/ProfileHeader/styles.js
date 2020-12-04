@@ -2,17 +2,22 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     width: 100%;
-    max-width: 771px;
+    max-width: 801px;
+
+    height: 100%;
+    max-height: 378px;
 
     display: flex;
     flex-direction: column;
-    justify-content: center;
 `;
 
 export const AvatarWrapper = styled.div`
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
+
+    padding-left: 26px;
 `;
 
 export const Avatar = styled.div`
@@ -23,6 +28,8 @@ export const Avatar = styled.div`
     background: #262626;
 
     margin-right: 100px;
+
+    flex-shrink: 0;
 `;
 
 export const UserData = styled.div`
@@ -67,6 +74,8 @@ export const Buttons = styled.div`
         color: #FFF;
         
         outline: 0;
+
+        transition: 0.4s;
         
         cursor: pointer;
 
@@ -99,6 +108,10 @@ export const Buttons = styled.div`
                     margin-right: 0;
                 }
             }
+        }
+
+        &:hover {
+            opacity: 0.8;
         }    
     }
 `;
@@ -148,6 +161,8 @@ export const Stories = styled.div`
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+
+    cursor: pointer;
 
     > div {
         width: 86px;
