@@ -4,7 +4,8 @@
 
 <p align="center">
     <a href="#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-clones">Clones</a>
+    <a href="#-clones">Clones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-sample">Sample</a>
 </p>
 
 <br>
@@ -23,6 +24,7 @@ Repositório criado para armazenar clones de interfaces
 - [Github](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/github-clone)
 - [Google](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/google-clone)
 - [Instagram](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/instagram-clone)
+- [Instagram-web](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/instagramweb-clone)
 - [Netflix](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/netflix-clone)
 - [Pipefy](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/pipefy-clone)
 - [Stripe-menu](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/stripe-menu-clone)
@@ -32,3 +34,7 @@ Repositório criado para armazenar clones de interfaces
 - [Typeform-homepage-animation](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/typeform-homepage-animation)
 - [Vercel-homepage](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/vercel-homepage-clone)
 - [Youtube](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/youtube-clone)
+
+## ✨ Sample
+
+- [Instagram-web](https://instagram-web-page-uiclone.netlify.app/)
