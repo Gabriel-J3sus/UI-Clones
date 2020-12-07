@@ -26,6 +26,7 @@ Repositório criado para armazenar clones de interfaces
 - [Instagram](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/instagram-clone)
 - [Instagram-web](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/instagramweb-clone)
 - [Netflix](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/netflix-clone)
+- [Nubank](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/nubank-clone)
 - [Pipefy](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/pipefy-clone)
 - [Stripe-menu](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/stripe-menu-clone)
 - [Tesla](https://github.com/Gabriel-J3sus/UI-Clones/tree/main/tesla-clone)
