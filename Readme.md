@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-    <a href="#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-repository">Repository</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-clones">Clones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-sample">Sample</a>
 </p>
 
 <br>
 
-## 💻 Repositório
+## 💻 Repository
 
-Repositório criado para armazenar clones de interfaces
+Repository created in order to save interfaces clones.
 
 ## 🚀 Clones
 
